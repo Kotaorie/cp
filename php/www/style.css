@@ -39,6 +39,11 @@ html {
     margin-right: auto;
 }
 
+.troll {
+    display: flex;
+    justify-content: center;
+}
+
 form {
     margin: auto;
 }
